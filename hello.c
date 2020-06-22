@@ -1,3 +1,3 @@
-#Include<iostream.h>
-#Include<stdio.h>
+#include<iostream.h>
+#include<stdio.h>
 printf("Hello!");
